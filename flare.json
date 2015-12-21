@@ -1,0 +1,58 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "Technical skills",
+   "children": [
+      {"name": "OOP", "size": 3000},
+      {"name": "*Design Paterns", "size": 2500},
+      {"name": "*Clean Code", "size": 3000},
+      {"name": "*Algorithms", "size": 2500},
+      {"name": "Web services", "size": 1500},
+      {"name": "*Graph Theory", "size": 2000},
+      {"name": "*Statistics", "size": 2000},
+      {
+        "name": "Programming languages",
+        "children":[
+        {"name": "C++", "size": 2500},
+        {"name": "Java", "size": 2000},
+        {"name": "Spring", "size": 1500},
+        {"name": "jBPM", "size": 400},
+        {"name": "Python", "size": 1500},
+        {"name": "JS", "size": 500}
+        ]}]
+  },
+  {
+   "name": "Team Roles",
+   "children": [
+      {"name": "Developer", "size": 3800},
+      {"name": "*S. Master*", "size": 900},
+      {"name": "*P. Lead", "size": 2000},
+      {"name": "*T. Lead", "size": 1300}]
+  },
+  {
+   "name": "Team work",
+   "children": [
+      {"name": "Estimates", "size": 3000},
+      {"name": "Fixing issues", "size": 3500},
+      {"name": "*Delivery on time", "size": 3500},
+      {"name": "Commitment", "size": 3500},
+      {"name": "Positive attitude", "size": 3500},
+      {"name": "*Mentoring", "size": 2000}]
+  },
+  {
+   "name": "Other skills",
+   "children": [
+      {"name": "Presentation", "size": 1800},
+      {"name": "Analytical mind", "size": 2500},
+      {"name": "Github", "size": 1500}]
+  },
+  {
+   "name": "Academic background",
+   "children": [
+      {"name": "BSc", "size": 3200},
+      {"name": "*MSc", "size": 1500}]
+  },
+    {"name": "4 years IT work experience", "size" : 9000}
+  ] 
+}
